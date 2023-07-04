@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmitriy Klimov
 ======================================================================================================================================
 
-Data Analyst
-------------
+Data Scientist
+--------------
 
 I am a 2nd year student of business informatics at the Higher School of Economics, interested in analytics and programming.
 
