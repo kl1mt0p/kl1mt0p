@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I am a 2nd year student of business informatics at the Higher School of Economics, interested in analytics and programming.
+I am a 2nd year student of Business Informatics at the Higher School of Economics, interested in analytics and programming.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [dklimovvvv@yandex.ru](mailto:dklimovvvv@yandex.ru)
